@@ -1,0 +1,12 @@
+# Ignore Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignored vscode files
+.vscode/
+
+# Ignore for PHP
+/vendor
+/env
+.env
